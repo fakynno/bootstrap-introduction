@@ -16,6 +16,11 @@
     padding: 50px;
 }
 
+.bg-rodape {
+    background-color: dimgray;
+    color: white;
+}
+
 .margin {    
     padding-bottom: 30px;
 }

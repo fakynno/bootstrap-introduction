@@ -7,6 +7,15 @@
     background-color: aquamarine;
 }
 
+.parceiros {
+    background-color: bisque;
+    padding: 10px;
+}
+
+.img-parceiros {
+    padding: 50px;
+}
+
 .margin {    
     padding-bottom: 30px;
 }
